@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weixin_title_bg">#318ece</color>
+    <color name="orange">#ffEf4f1f</color>
+	<color name="font_tab_unselected_color">#000000</color>
+	<color name="font_tab_selected_color">#21c505</color>
+</resources>

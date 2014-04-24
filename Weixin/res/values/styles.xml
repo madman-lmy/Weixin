@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.WeiXin" parent="Theme.Sherlock.Light.DarkActionBar">
+        <item name="absForceOverflow">true</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+    
+</resources>

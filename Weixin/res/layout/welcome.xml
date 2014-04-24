@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome_bg"
+    android:orientation="vertical" >
+    
+    <RelativeLayout android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="-52.0dip" android:src="@drawable/welcome_earth" android:scaleType="fitXY" android:layout_above="@+id/welcome_people_iv" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@+id/welcome_people_iv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/welcome_people" android:scaleType="fitXY" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+
+</LinearLayout>
